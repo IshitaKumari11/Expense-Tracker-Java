@@ -27,16 +27,10 @@ A clean and intuitive **Java Swing-based Expense Tracker** that helps users mana
 
 ## 📸 Screenshots  
 ![image](https://github.com/user-attachments/assets/174c455a-ad8e-4d24-85d2-9fa21f735e3b)
-![image](https://github.com/user-attachments/assets/174c455a-ad8e-4d24-85d2-9fa21f735e3b)
-![image](https://github.com/user-attachments/assets/910f2a65-a16b-4d12-8f32-508230b4a5ed)
 ![image](https://github.com/user-attachments/assets/910f2a65-a16b-4d12-8f32-508230b4a5ed)
 ![image](https://github.com/user-attachments/assets/8d9f6028-6b34-429f-84b9-ba9b1b94c636)
-![image](https://github.com/user-attachments/assets/8d9f6028-6b34-429f-84b9-ba9b1b94c636)
-![image](https://github.com/user-attachments/assets/521fe6ea-999b-45b2-88ef-5b8c6ed5cab7)
 ![image](https://github.com/user-attachments/assets/521fe6ea-999b-45b2-88ef-5b8c6ed5cab7)
 ![image](https://github.com/user-attachments/assets/c6983e81-e048-4407-bc36-22c9bcd5c680)
-![image](https://github.com/user-attachments/assets/c6983e81-e048-4407-bc36-22c9bcd5c680)
-![image](https://github.com/user-attachments/assets/8155c076-0f99-447d-b6cb-4d0a5ef3be70)
 ![image](https://github.com/user-attachments/assets/8155c076-0f99-447d-b6cb-4d0a5ef3be70)
 
 
